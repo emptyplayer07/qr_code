@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785511808721",
+    "project_id": "flutter-qr-code-799d4",
+    "storage_bucket": "flutter-qr-code-799d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785511808721:android:bbdf57f272da2c2d168ff0",
+        "android_client_info": {
+          "package_name": "com.example.qr_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9O9yfu1PRuhtHQ5r0olCS7I5_ZyuQrMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
